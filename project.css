@@ -1,5 +1,5 @@
 UL{
-    list-style-image:url(_derived/afolbul1.gif);
+    list-style-image:url(afolbul1.gif);
     }
     
     .mstheme-bannertxt{
@@ -103,7 +103,7 @@ UL{
     
     body{
     font-family:arial,helvetica;
-    background-image:url(_derived/folbkgnd.jpg);
+    background-image:url(folbkgnd.jpg);
     }
     
     .mstheme-topbar-font{
